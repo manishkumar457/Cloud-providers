@@ -2,8 +2,7 @@
     {
         "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/AllMovieLandProvider/icon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 27419,
+        "repositoryUrl": "https://github.com/manishkumar457/Cloud-providers",
         "status": 1,
         "language": "hi",
         "authors": [
@@ -17,14 +16,13 @@
         "version": 12,
         "internalName": "AllMovieLandProvider",
         "description": "Indian MultiLanguage Provider (Mostly Hindi)",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/AllMovieLandProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/AllMovieLandProvider.cs3",
         "name": "AllMovieLandProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=anime-world.in&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 18424,
+        "repositoryUrl": "https://github.com/manishkumar457/Cloud-providers",
         "status": 1,
         "language": "hi",
         "authors": [
@@ -39,13 +37,12 @@
         "version": 1,
         "internalName": "AnimeWorldProvider",
         "description": "Please wait for 10seconds to bypass the ads",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/AnimeWorldProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/AnimeWorldProvider.cs3",
         "name": "AnimeWorldProvider"
     },
     {
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 16577,
+        "repositoryUrl": "https://github.com/manishkumar457/Cloud-providers",
         "status": 0,
         "language": "ta",
         "authors": [
@@ -57,14 +54,13 @@
         "version": 2,
         "internalName": "Av1EncodedProvider",
         "description": "Tamil Movies [nolinksfound] (Use webview to watch unable to scrape links)",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/Av1EncodedProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/Av1EncodedProvider.cs3",
         "name": "Av1EncodedProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/BanglaPlexProvider/icon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 18894,
+        "repositoryUrl": "https://github.com/manishkumar457/Cloud-providers",
         "status": 1,
         "language": "bn",
         "authors": [
@@ -76,14 +72,13 @@
         "version": 2,
         "internalName": "BanglaPlexProvider",
         "description": "Bengali Indian HD Provider",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/BanglaPlexProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/BanglaPlexProvider.cs3",
         "name": "BanglaPlexProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=bolly2tolly.desi/&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 20318,
+        "repositoryUrl": "https://github.com/manishkumar457/Cloud-providers",
         "status": 1,
         "language": "hi",
         "authors": [
@@ -95,13 +90,13 @@
         ],
         "version": 1,
         "internalName": "Bolly2TollyProvider",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/Bolly2TollyProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/Bolly2TollyProvider.cs3",
         "name": "Bolly2TollyProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.cinevez.pm&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
+        "repositoryUrl": "https://github.com/manishkumar457/Cloud-providers",
         "fileSize": 11289,
         "status": 1,
         "language": "hi",
@@ -115,14 +110,13 @@
         "version": 2,
         "internalName": "CinevezProvider",
         "description": "This website support English/Hindi/Kannada/Malayalam/Tamil/Telugu",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/CinevezProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/CinevezProvider.cs3",
         "name": "CinevezProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/EinthusanProvider/icon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 15207,
+        "repositoryUrl": "https://github.com/manishkumar457/Cloud-providers",
         "status": 1,
         "language": "ta",
         "authors": [
@@ -134,14 +128,13 @@
         "version": 5,
         "internalName": "EinthusanProvider",
         "description": "Indian Multi-language HD Provider",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/EinthusanProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/EinthusanProvider.cs3",
         "name": "EinthusanProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/FDMProvider/icon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 17839,
+        "repositoryUrl": "https://github.com/manishkumar457/Cloud-providers",
         "status": 1,
         "language": "ta",
         "authors": [
@@ -154,14 +147,13 @@
         "version": 2,
         "internalName": "FDMProvider",
         "description": "Indian Multi-language 4k Provider",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/FDMProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/FDMProvider.cs3",
         "name": "FDMProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/FlbdProvider/icon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 21611,
+        "repositoryUrl": "https://github.com/manishkumar457/Cloud-providers",
         "status": 1,
         "language": "bn",
         "authors": [
@@ -174,14 +166,13 @@
         "version": 1,
         "internalName": "FlbdProvider",
         "description": "Bengali Indian HD Provider",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/FlbdProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/FlbdProvider.cs3",
         "name": "FlbdProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=ww2.ibomma.cx&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 17734,
+        "repositoryUrl": "https://github.com/manishkumar457/Cloud-providers",
         "status": 1,
         "language": "te",
         "authors": [
@@ -193,14 +184,13 @@
         ],
         "version": 1,
         "internalName": "IBommaProvider",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/IBommaProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/IBommaProvider.cs3",
         "name": "IBommaProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/KatMoviesProvider/icon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 17288,
+        "repositoryUrl": "https://github.com/manishkumar457/Cloud-providers",
         "status": 0,
         "language": "ta",
         "authors": [
@@ -213,13 +203,12 @@
         "version": 1,
         "internalName": "KatMoviesProvider",
         "description": "Indian Multi-language Movie-only Provider",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/KatMoviesProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/KatMoviesProvider.cs3",
         "name": "KatMoviesProvider"
     },
     {
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 11652,
+        "repositoryUrl": "https://github.com/manishkumar457/Cloud-providers",
         "status": 1,
         "language": "ta",
         "authors": [
@@ -231,14 +220,13 @@
         "version": 1,
         "internalName": "MadStreamProvider",
         "description": "Indian Multi-language LiveTV Provider",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/MadStreamProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/MadStreamProvider.cs3",
         "name": "MadStreamProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/MassTamilanProvider/icon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 14096,
+        "repositoryUrl": "https://github.com/manishkumar457/Cloud-providers",
         "status": 1,
         "language": "ta",
         "authors": [
@@ -250,14 +238,13 @@
         "version": 2,
         "internalName": "MassTamilanProvider",
         "description": "Indian Multi-language Music Provider",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/MassTamilanProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/MassTamilanProvider.cs3",
         "name": "MassTamilanProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/MovieHUBProvider/icon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 19984,
+        "repositoryUrl": "https://github.com/manishkumar457/Cloud-providers",
         "status": 3,
         "language": "ta",
         "authors": [
@@ -270,14 +257,13 @@
         "version": 10,
         "internalName": "MovieHUBProvider",
         "description": "Indian Multi-language HD Provider",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/MovieHUBProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/MovieHUBProvider.cs3",
         "name": "MovieHUBProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/MultiMoviesProvider/icon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 19117,
+        "repositoryUrl": "https://github.com/manishkumar457/Cloud-providers",
         "status": 0,
         "language": "ta",
         "authors": [
@@ -290,13 +276,12 @@
         "version": 1,
         "internalName": "MultiMoviesProvider",
         "description": "Indian Multi-language HD Provider",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/MultiMoviesProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/MultiMoviesProvider.cs3",
         "name": "MultiMoviesProvider"
     },
     {
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 12503,
+        "repositoryUrl": "https://github.com/manishkumar457/Cloud-providers",
         "status": 1,
         "language": "en",
         "authors": [
@@ -308,13 +293,12 @@
         "version": 9,
         "internalName": "NOXXProvider",
         "description": "HD TV Shows (Not all links are working because of a unsolvable issue)",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/NOXXProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/NOXXProvider.cs3",
         "name": "NOXXProvider"
     },
     {
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 30827,
+        "repositoryUrl": "https://github.com/manishkumar457/Cloud-providers",
         "status": 0,
         "language": "ta",
         "authors": [
@@ -327,14 +311,13 @@
         "version": 2,
         "internalName": "OlaMoviesProvider",
         "description": "4K Provider for all Indian Languages",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/OlaMoviesProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/OlaMoviesProvider.cs3",
         "name": "OlaMoviesProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/PrivateMoviezProvider/icon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 23980,
+        "repositoryUrl": "https://github.com/manishkumar457/Cloud-providers",
         "status": 0,
         "language": "ta",
         "authors": [
@@ -347,13 +330,13 @@
         "version": 2,
         "internalName": "PrivateMoviezProvider",
         "description": "Indian Multi-language 4k Provider",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/PrivateMoviezProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/PrivateMoviezProvider.cs3",
         "name": "PrivateMoviezProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/ShowFlixProvider/icon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
+        "repositoryUrl": "https://github.com/manishkumar457/Cloud-providers",
         "fileSize": 39384,
         "status": 1,
         "language": "ta",
@@ -367,14 +350,13 @@
         "version": 30,
         "internalName": "ShowFlixProvider",
         "description": "HD Provider for all Indian Languages",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/ShowFlixProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/ShowFlixProvider.cs3",
         "name": "ShowFlixProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=streamblasters.lol&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 14671,
+        "repositoryUrl": "https://github.com/manishkumar457/Cloud-providers",
         "status": 1,
         "language": "hi",
         "authors": [
@@ -386,13 +368,12 @@
         ],
         "version": 1,
         "internalName": "StreamBlastersProvider",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/StreamBlastersProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/StreamBlastersProvider.cs3",
         "name": "StreamBlastersProvider"
     },
     {
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 21606,
+        "repositoryUrl": "https://github.com/manishkumar457/Cloud-providers",
         "status": 3,
         "language": "si",
         "authors": [
@@ -405,14 +386,13 @@
         "version": 4,
         "internalName": "SubsKingProvider",
         "description": "Sinhala subbed HD Provider",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/SubsKingProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/SubsKingProvider.cs3",
         "name": "SubsKingProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/TamilDhoolProvider/icon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 20832,
+        "repositoryUrl": "https://github.com/manishkumar457/Cloud-providers",
         "status": 1,
         "language": "ta",
         "authors": [
@@ -424,14 +404,13 @@
         "version": 8,
         "internalName": "TamilDhoolProvider",
         "description": "Tamil Tv Serial/Shows Provider",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/TamilDhoolProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/TamilDhoolProvider.cs3",
         "name": "TamilDhoolProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/TamilUltraProvider/icon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 11058,
+        "repositoryUrl": "https://github.com/manishkumar457/Cloud-providers",
         "status": 1,
         "language": "ta",
         "authors": [
@@ -443,14 +422,13 @@
         "version": 2,
         "internalName": "TamilUltraProvider",
         "description": "Indian Live TV Provider",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/TamilUltraProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/TamilUltraProvider.cs3",
         "name": "TamilUltraProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/TamilYogiProvider/logo.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 11607,
+        "repositoryUrl": "https://github.com/manishkumar457/Cloud-providers",
         "status": 1,
         "language": "ta",
         "authors": [
@@ -463,14 +441,13 @@
         "version": 8,
         "internalName": "TamilYogiProvider",
         "description": "Tamil Only Provider with frequent updates",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/TamilYogiProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/TamilYogiProvider.cs3",
         "name": "TamilYogiProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/TeluguFlixProvider/icon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 17938,
+        "repositoryUrl": "https://github.com/manishkumar457/Cloud-providers",
         "status": 0,
         "language": "te",
         "authors": [
@@ -483,14 +460,13 @@
         "version": 5,
         "internalName": "TeluguFlixProvider",
         "description": "Telugu HD Provider",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/TeluguFlixProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/TeluguFlixProvider.cs3",
         "name": "TeluguFlixProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/UHDmoviesProvider/icon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 21428,
+        "repositoryUrl": "https://github.com/manishkumar457/Cloud-providers",
         "status": 1,
         "language": "hi",
         "authors": [
@@ -503,7 +479,7 @@
         "version": 3,
         "internalName": "UHDmoviesProvider",
         "description": "Indian Multi-language 4K Provider",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/UHDmoviesProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/UHDmoviesProvider.cs3",
         "name": "UHDmoviesProvider"
     }
 ]
