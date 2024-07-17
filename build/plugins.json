@@ -16,7 +16,7 @@
         "version": 12,
         "internalName": "AllMovieLandProvider",
         "description": "Indian MultiLanguage Provider (Mostly Hindi)",
-        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/AllMovieLandProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/blob/master/AllMovieLandProvider/build/AllMovieLandProvider.cs3",
         "name": "AllMovieLandProvider"
     },
     {
@@ -37,7 +37,7 @@
         "version": 1,
         "internalName": "AnimeWorldProvider",
         "description": "Please wait for 10seconds to bypass the ads",
-        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/AnimeWorldProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/blob/master/build/AllMovieLandProvider/build/AnimeWorldProvider.cs3",
         "name": "AnimeWorldProvider"
     },
     {
@@ -54,7 +54,7 @@
         "version": 2,
         "internalName": "Av1EncodedProvider",
         "description": "Tamil Movies [nolinksfound] (Use webview to watch unable to scrape links)",
-        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/Av1EncodedProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/blob/master/Av1EncodedProvider.cs3",
         "name": "Av1EncodedProvider"
     },
     {
@@ -72,7 +72,7 @@
         "version": 2,
         "internalName": "BanglaPlexProvider",
         "description": "Bengali Indian HD Provider",
-        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/BanglaPlexProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/blob/master/BanglaPlexProvider.cs3",
         "name": "BanglaPlexProvider"
     },
     {
@@ -90,7 +90,7 @@
         ],
         "version": 1,
         "internalName": "Bolly2TollyProvider",
-        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/Bolly2TollyProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/blob/master/Bolly2TollyProvider.cs3",
         "name": "Bolly2TollyProvider"
     },
     {
@@ -110,7 +110,7 @@
         "version": 2,
         "internalName": "CinevezProvider",
         "description": "This website support English/Hindi/Kannada/Malayalam/Tamil/Telugu",
-        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/CinevezProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/blob/master/CinevezProvider.cs3",
         "name": "CinevezProvider"
     },
     {
@@ -128,7 +128,7 @@
         "version": 5,
         "internalName": "EinthusanProvider",
         "description": "Indian Multi-language HD Provider",
-        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/EinthusanProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/blob/master/EinthusanProvider.cs3",
         "name": "EinthusanProvider"
     },
     {
@@ -147,7 +147,7 @@
         "version": 2,
         "internalName": "FDMProvider",
         "description": "Indian Multi-language 4k Provider",
-        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/FDMProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/blob/master/FDMProvider.cs3",
         "name": "FDMProvider"
     },
     {
@@ -166,7 +166,7 @@
         "version": 1,
         "internalName": "FlbdProvider",
         "description": "Bengali Indian HD Provider",
-        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/FlbdProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/blob/master/FlbdProvider.cs3",
         "name": "FlbdProvider"
     },
     {
@@ -184,7 +184,7 @@
         ],
         "version": 1,
         "internalName": "IBommaProvider",
-        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/IBommaProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/blob/master/IBommaProvider.cs3",
         "name": "IBommaProvider"
     },
     {
@@ -203,7 +203,7 @@
         "version": 1,
         "internalName": "KatMoviesProvider",
         "description": "Indian Multi-language Movie-only Provider",
-        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/KatMoviesProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/blob/master/KatMoviesProvider.cs3",
         "name": "KatMoviesProvider"
     },
     {
@@ -220,7 +220,7 @@
         "version": 1,
         "internalName": "MadStreamProvider",
         "description": "Indian Multi-language LiveTV Provider",
-        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/MadStreamProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/blob/master/MadStreamProvider.cs3",
         "name": "MadStreamProvider"
     },
     {
@@ -238,7 +238,7 @@
         "version": 2,
         "internalName": "MassTamilanProvider",
         "description": "Indian Multi-language Music Provider",
-        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/MassTamilanProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/blob/master/MassTamilanProvider.cs3",
         "name": "MassTamilanProvider"
     },
     {
@@ -257,7 +257,7 @@
         "version": 10,
         "internalName": "MovieHUBProvider",
         "description": "Indian Multi-language HD Provider",
-        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/MovieHUBProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/blob/master/MovieHUBProvider.cs3",
         "name": "MovieHUBProvider"
     },
     {
@@ -276,7 +276,7 @@
         "version": 1,
         "internalName": "MultiMoviesProvider",
         "description": "Indian Multi-language HD Provider",
-        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/MultiMoviesProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/blob/master/MultiMoviesProvider.cs3",
         "name": "MultiMoviesProvider"
     },
     {
@@ -293,7 +293,7 @@
         "version": 9,
         "internalName": "NOXXProvider",
         "description": "HD TV Shows (Not all links are working because of a unsolvable issue)",
-        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/NOXXProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/blob/master/NOXXProvider.cs3",
         "name": "NOXXProvider"
     },
     {
@@ -311,7 +311,7 @@
         "version": 2,
         "internalName": "OlaMoviesProvider",
         "description": "4K Provider for all Indian Languages",
-        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/OlaMoviesProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/blob/master/OlaMoviesProvider.cs3",
         "name": "OlaMoviesProvider"
     },
     {
@@ -330,7 +330,7 @@
         "version": 2,
         "internalName": "PrivateMoviezProvider",
         "description": "Indian Multi-language 4k Provider",
-        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/PrivateMoviezProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/blob/master/PrivateMoviezProvider.cs3",
         "name": "PrivateMoviezProvider"
     },
     {
@@ -350,7 +350,7 @@
         "version": 30,
         "internalName": "ShowFlixProvider",
         "description": "HD Provider for all Indian Languages",
-        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/ShowFlixProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/blob/master/ShowFlixProvider/build/ShowFlixProvider.cs3",
         "name": "ShowFlixProvider"
     },
     {
@@ -368,7 +368,7 @@
         ],
         "version": 1,
         "internalName": "StreamBlastersProvider",
-        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/StreamBlastersProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/blob/master/StreamBlastersProvider.cs3",
         "name": "StreamBlastersProvider"
     },
     {
@@ -386,7 +386,7 @@
         "version": 4,
         "internalName": "SubsKingProvider",
         "description": "Sinhala subbed HD Provider",
-        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/SubsKingProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/blob/master/SubsKingProvider.cs3",
         "name": "SubsKingProvider"
     },
     {
@@ -404,7 +404,7 @@
         "version": 8,
         "internalName": "TamilDhoolProvider",
         "description": "Tamil Tv Serial/Shows Provider",
-        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/TamilDhoolProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/blob/master/TamilDhoolProvider.cs3",
         "name": "TamilDhoolProvider"
     },
     {
@@ -422,7 +422,7 @@
         "version": 2,
         "internalName": "TamilUltraProvider",
         "description": "Indian Live TV Provider",
-        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/TamilUltraProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/blob/master/TamilUltraProvider.cs3",
         "name": "TamilUltraProvider"
     },
     {
@@ -441,7 +441,7 @@
         "version": 8,
         "internalName": "TamilYogiProvider",
         "description": "Tamil Only Provider with frequent updates",
-        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/TamilYogiProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/blob/master/TamilYogiProvider.cs3",
         "name": "TamilYogiProvider"
     },
     {
@@ -460,7 +460,7 @@
         "version": 5,
         "internalName": "TeluguFlixProvider",
         "description": "Telugu HD Provider",
-        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/TeluguFlixProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/blob/master/TeluguFlixProvider.cs3",
         "name": "TeluguFlixProvider"
     },
     {
@@ -479,7 +479,7 @@
         "version": 3,
         "internalName": "UHDmoviesProvider",
         "description": "Indian Multi-language 4K Provider",
-        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/builds/UHDmoviesProvider.cs3",
+        "url": "https://raw.githubusercontent.com/manishkumar457/Cloud-providers/blob/master/UHDmoviesProvider.cs3",
         "name": "UHDmoviesProvider"
     }
 ]
