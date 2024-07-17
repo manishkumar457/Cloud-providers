@@ -1,0 +1,13 @@
+#Thu Jul 18 02:25:56 IST 2024
+base.0=/Users/manishkumars/StudioProjects/Cloud-providers/CinevezProvider/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+base.1=/Users/manishkumars/StudioProjects/Cloud-providers/CinevezProvider/build/intermediates/dex/debugAndroidTest/mergeLibDexDebugAndroidTest/0/classes.dex
+base.2=/Users/manishkumars/StudioProjects/Cloud-providers/CinevezProvider/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.3=/Users/manishkumars/StudioProjects/Cloud-providers/CinevezProvider/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/13/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=0/classes.dex
+path.3=13/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex

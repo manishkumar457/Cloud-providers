@@ -1,0 +1,42 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.likdev256.test" >
+4
+5    <uses-sdk
+5-->/Users/manishkumars/StudioProjects/Cloud-providers/CinevezProvider/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest1790262752126558573.xml:5:5-74
+6        android:minSdkVersion="21"
+6-->/Users/manishkumars/StudioProjects/Cloud-providers/CinevezProvider/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest1790262752126558573.xml:5:15-41
+7        android:targetSdkVersion="33" />
+7-->/Users/manishkumars/StudioProjects/Cloud-providers/CinevezProvider/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest1790262752126558573.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/manishkumars/StudioProjects/Cloud-providers/CinevezProvider/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest1790262752126558573.xml:11:5-15:68
+10        android:name="android.test.InstrumentationTestRunner"
+10-->/Users/manishkumars/StudioProjects/Cloud-providers/CinevezProvider/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest1790262752126558573.xml:11:22-75
+11        android:functionalTest="false"
+11-->/Users/manishkumars/StudioProjects/Cloud-providers/CinevezProvider/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest1790262752126558573.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/manishkumars/StudioProjects/Cloud-providers/CinevezProvider/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest1790262752126558573.xml:13:22-53
+13        android:label="Tests for com.likdev256.test"
+13-->/Users/manishkumars/StudioProjects/Cloud-providers/CinevezProvider/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest1790262752126558573.xml:15:22-66
+14        android:targetPackage="com.likdev256.test" />
+14-->/Users/manishkumars/StudioProjects/Cloud-providers/CinevezProvider/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest1790262752126558573.xml:12:22-64
+15
+16    <application
+16-->/Users/manishkumars/StudioProjects/Cloud-providers/CinevezProvider/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest1790262752126558573.xml:7:5-9:19
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.0.0] /Users/manishkumars/.gradle/caches/transforms-3/d1989ddd9083b3041d035b1a350bf9e4/transformed/core-1.0.0/AndroidManifest.xml:22:18-86
+18        android:debuggable="true" >
+19        <uses-library android:name="android.test.runner" />
+19-->/Users/manishkumars/StudioProjects/Cloud-providers/CinevezProvider/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest1790262752126558573.xml:8:9-60
+19-->/Users/manishkumars/StudioProjects/Cloud-providers/CinevezProvider/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest1790262752126558573.xml:8:23-57
+20
+21        <meta-data
+21-->[com.google.android.gms:play-services-basement:16.0.1] /Users/manishkumars/.gradle/caches/transforms-3/9569db768a762b296fa339f9fdc98e5e/transformed/jetified-play-services-basement-16.0.1/AndroidManifest.xml:23:9-25:69
+22            android:name="com.google.android.gms.version"
+22-->[com.google.android.gms:play-services-basement:16.0.1] /Users/manishkumars/.gradle/caches/transforms-3/9569db768a762b296fa339f9fdc98e5e/transformed/jetified-play-services-basement-16.0.1/AndroidManifest.xml:24:13-58
+23            android:value="@integer/google_play_services_version" />
+23-->[com.google.android.gms:play-services-basement:16.0.1] /Users/manishkumars/.gradle/caches/transforms-3/9569db768a762b296fa339f9fdc98e5e/transformed/jetified-play-services-basement-16.0.1/AndroidManifest.xml:25:13-66
+24    </application>
+25
+26</manifest>
