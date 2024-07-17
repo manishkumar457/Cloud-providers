@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AllMovieLandProvider" />
+            <option value="$PROJECT_DIR$/AnimeWorldProvider" />
+            <option value="$PROJECT_DIR$/Av1EncodedProvider" />
+            <option value="$PROJECT_DIR$/BanglaPlexProvider" />
+            <option value="$PROJECT_DIR$/Bolly2TollyProvider" />
+            <option value="$PROJECT_DIR$/CinevezProvider" />
+            <option value="$PROJECT_DIR$/EinthusanProvider" />
+            <option value="$PROJECT_DIR$/FDMProvider" />
+            <option value="$PROJECT_DIR$/FlbdProvider" />
+            <option value="$PROJECT_DIR$/IBommaProvider" />
+            <option value="$PROJECT_DIR$/KatMoviesProvider" />
+            <option value="$PROJECT_DIR$/MadStreamProvider" />
+            <option value="$PROJECT_DIR$/MassTamilanProvider" />
+            <option value="$PROJECT_DIR$/MovieHUBProvider" />
+            <option value="$PROJECT_DIR$/MultiMoviesProvider" />
+            <option value="$PROJECT_DIR$/NOXXProvider" />
+            <option value="$PROJECT_DIR$/OlaMoviesProvider" />
+            <option value="$PROJECT_DIR$/PrivateMoviezProvider" />
+            <option value="$PROJECT_DIR$/ShowFlixProvider" />
+            <option value="$PROJECT_DIR$/StreamBlastersProvider" />
+            <option value="$PROJECT_DIR$/SubsKingProvider" />
+            <option value="$PROJECT_DIR$/TamilDhoolProvider" />
+            <option value="$PROJECT_DIR$/TamilUltraProvider" />
+            <option value="$PROJECT_DIR$/TamilYogiProvider" />
+            <option value="$PROJECT_DIR$/TeluguFlixProvider" />
+            <option value="$PROJECT_DIR$/UHDmoviesProvider" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
