@@ -99,10 +99,10 @@
         "name": "Bolly2TollyProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=ww1.cinevez.mx&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.cinevez.pm&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 11287,
+        "fileSize": 11289,
         "status": 1,
         "language": "hi",
         "authors": [
@@ -112,7 +112,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "CinevezProvider",
         "description": "This website support English/Hindi/Kannada/Malayalam/Tamil/Telugu",
         "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/CinevezProvider.cs3",
@@ -354,7 +354,7 @@
         "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/ShowFlixProvider/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 39364,
+        "fileSize": 39384,
         "status": 1,
         "language": "ta",
         "authors": [
@@ -364,7 +364,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 29,
+        "version": 30,
         "internalName": "ShowFlixProvider",
         "description": "HD Provider for all Indian Languages",
         "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/ShowFlixProvider.cs3",
