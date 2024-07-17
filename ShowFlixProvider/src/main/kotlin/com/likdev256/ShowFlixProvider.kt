@@ -28,7 +28,7 @@ class ShowFlixProvider : MainAPI() { // all providers must be an instance of Mai
         TvType.TvSeries
     )
 
-    private val installationID = "951253bd-11ac-473f-b0b0-346e2d3d542f"
+    private val installationID = "e26c34d7-8f79-4161-92d8-36d19023fc60"
 
     data class Seasons(
         var Seasons: Map<String, List<String?>> = mapOf()
